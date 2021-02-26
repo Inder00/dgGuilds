@@ -1,0 +1,13 @@
+name: dgGuilds
+version: 1.0
+author: Inder00
+main: pl.inder00.dghc.guilds.Main
+depend: ["dgAPI"]
+commands:
+  zaloz:
+  usun:
+  zapros:
+  dolacz:
+  wyrzuc:
+  opusc:
+  gildia:
